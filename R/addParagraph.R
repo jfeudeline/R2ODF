@@ -1,7 +1,7 @@
-# Method Docx.addParagraph 
+# Method Odt.addParagraph 
 # 
-# Author: David GOHEL <david.gohel@lysis-consultants.fr>
-# Date: 1 avr. 2013
+# Author: Jean-François Eudeline 
+# Date: 22 dec. 2013
 # Version: 0.1
 ###############################################################################
 
