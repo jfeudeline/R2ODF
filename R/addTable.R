@@ -1,4 +1,4 @@
-# Method Docx.addTable 
+# Method Odt.addTable 
 # 
 # Author: David GOHEL <david.gohel@lysis-consultants.fr>
 # Date: 1 avr. 2013
